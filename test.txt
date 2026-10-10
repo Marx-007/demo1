@@ -1,2 +1,4 @@
 This is a test file case
 It is created for git
+Chnages are made in this file.
+Here conflicts
